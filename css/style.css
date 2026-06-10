@@ -1452,7 +1452,6 @@ p.group__description {
         font-size: 1rem;
         line-height: 1.5;
         padding-top: 0;
-        margin-bottom: 5rem;
     }
 
     .voice .voice__card {
@@ -1479,7 +1478,7 @@ p.group__description {
     }
 
     .group .group__logo {
-        margin: 3rem auto 0;
+        margin: 5rem auto 0;
     }
 
     h2.products__title {

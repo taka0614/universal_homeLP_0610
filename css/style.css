@@ -835,9 +835,6 @@ p.group__description {
 .group .group__logo {
     display: block;
     font-size: 0;
-    background-image: url('../img/iidasangyo_logo.png');
-    background-size: contain;
-    background-repeat: no-repeat;
     aspect-ratio: 410 / 120;
     width: 50%;
     margin: 0 auto;

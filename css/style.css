@@ -1455,6 +1455,7 @@ p.group__description {
         font-size: 1rem;
         line-height: 1.5;
         padding-top: 0;
+        margin-bottom: 5rem;
     }
 
     .voice .voice__card {

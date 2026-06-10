@@ -1475,6 +1475,7 @@ p.group__description {
 
     .group .s-container {
         background-position: center;
+        aspect-ratio: auto;
     }
 
     .group .group__logo {

@@ -26,9 +26,11 @@ html {
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
-
     background-color: var(--white);
     color: var(--black);
+    padding-top: env(safe-area-inset-top);
+    padding-bottom: env(safe-area-inset-bottom);
+
 }
 .break,
 .s-break {
